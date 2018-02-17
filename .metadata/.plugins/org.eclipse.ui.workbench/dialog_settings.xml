@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="567" key="DIALOG_X_ORIGIN"/>
+		<item value="209" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.preferences.keysPreferencePage">
+		<item value="true" key="actionSetFilter"/>
+		<item value="true" key="uncategorizedFilter"/>
+		<item value="true" key="internalFilter"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="750" key="dialogHeight"/>
+		<item value="1200" key="dialogWidth"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="PreferencesImportWizard">
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.wst.html.ui.internal.wizard.NewHTMLWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.python.pydev.PythonCategory"/>
+			<item value="org.eclipse.wst.web.ui"/>
+			<item value="org.eclipse.wst.XMLCategory"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.dialogs.WorkbenchEditorsDialog">
+		<item value="0" key="sort"/>
+		<item value="false" key="allPersp"/>
+		<list key="columns">
+			<item value="199"/>
+			<item value="399"/>
+		</list>
+		<list key="bounds">
+			<item value="649"/>
+			<item value="45"/>
+			<item value="622"/>
+			<item value="448"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.egit.ui.internal.clone.GitCloneWizard" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.egit.ui.internal.clone.gitclonecategory"/>
+			<item value="org.eclipse.equinox.p2.category"/>
+			<item value="org.eclipse.thym.ui.category"/>
+			<item value="org.eclipse.oomph.importWizards"/>
+			<item value="org.eclipse.rse.importexport.importWizards"/>
+			<item value="org.eclipse.mylyn.tasks.ui.wizards.import.category"/>
+			<item value="org.eclipse.team.ui.importWizards"/>
+			<item value="org.eclipse.wst.XMLCategory"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/Volumes/driver2/dev/save_TestProject/TestProject/bookmaker"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,15 @@
+MODULES_MANAGER_V2
+manage|/Volumes/driver2/python/workspace/schedule/manage.py
+mmyydd.__init__|/Volumes/driver2/python/workspace/schedule/mmyydd/__init__.py
+mmyydd.admin|/Volumes/driver2/python/workspace/schedule/mmyydd/admin.py
+mmyydd.apps|/Volumes/driver2/python/workspace/schedule/mmyydd/apps.py
+mmyydd.migrations.0001_initial|/Volumes/driver2/python/workspace/schedule/mmyydd/migrations/0001_initial.py
+mmyydd.migrations.__init__|/Volumes/driver2/python/workspace/schedule/mmyydd/migrations/__init__.py
+mmyydd.models|/Volumes/driver2/python/workspace/schedule/mmyydd/models.py
+mmyydd.tests|/Volumes/driver2/python/workspace/schedule/mmyydd/tests.py
+mmyydd.urls|/Volumes/driver2/python/workspace/schedule/mmyydd/urls.py
+mmyydd.views|/Volumes/driver2/python/workspace/schedule/mmyydd/views.py
+schedule.__init__|/Volumes/driver2/python/workspace/schedule/schedule/__init__.py
+schedule.settings|/Volumes/driver2/python/workspace/schedule/schedule/settings.py
+schedule.urls|/Volumes/driver2/python/workspace/schedule/schedule/urls.py
+schedule.wsgi|/Volumes/driver2/python/workspace/schedule/schedule/wsgi.py

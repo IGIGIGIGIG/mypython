@@ -1,0 +1,14 @@
+MODULES_MANAGER_V2
+daily_project.__init__|/Volumes/driver2/python/workspace/daily_sound/daily_project/__init__.py
+daily_project.admin|/Volumes/driver2/python/workspace/daily_sound/daily_project/admin.py
+daily_project.apps|/Volumes/driver2/python/workspace/daily_sound/daily_project/apps.py
+daily_project.migrations.0001_initial|/Volumes/driver2/python/workspace/daily_sound/daily_project/migrations/0001_initial.py
+daily_project.migrations.__init__|/Volumes/driver2/python/workspace/daily_sound/daily_project/migrations/__init__.py
+daily_project.models|/Volumes/driver2/python/workspace/daily_sound/daily_project/models.py
+daily_project.tests|/Volumes/driver2/python/workspace/daily_sound/daily_project/tests.py
+daily_project.views|/Volumes/driver2/python/workspace/daily_sound/daily_project/views.py
+daily_sound.__init__|/Volumes/driver2/python/workspace/daily_sound/daily_sound/__init__.py
+daily_sound.settings|/Volumes/driver2/python/workspace/daily_sound/daily_sound/settings.py
+daily_sound.urls|/Volumes/driver2/python/workspace/daily_sound/daily_sound/urls.py
+daily_sound.wsgi|/Volumes/driver2/python/workspace/daily_sound/daily_sound/wsgi.py
+manage|/Volumes/driver2/python/workspace/daily_sound/manage.py

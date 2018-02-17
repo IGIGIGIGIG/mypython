@@ -1,0 +1,62 @@
+# -*- coding: utf-8 -*-
+from __future__ import unicode_literals
+
+from django.db import models
+
+# Create your models here.
+
+
+# class User(models.Model):
+#     name = models.CharField(max_length=100)
+#     first_name = models.CharField(max_length=100)
+#     last_name = models.CharField(max_length=100)
+#     email = models.CharField(max_length=100)
+#      
+#     def __unicode__(self):
+#         return self.name
+#      
+class Schedule(models.Model):
+    """
+    Calendar Events
+    """
+    CSS_CLASS_CHOICES = (
+        ('', _('Normal')),
+        ('event-warning', _('Warning')),
+        ('event-info', _('Info')),
+        ('event-success', _('Success')),
+        ('event-inverse', _('Inverse')),
+        ('event-special', _('Special')),
+        ('event-important', _('Important')),
+    )
+    title = models.CharField(max_length=255, verbose_name=_('Title'))
+    url = models.URLField(verbose_name=_('URL'), null=True, blank=True)
+    css_class = models.CharField(blank=True, max_length=20, verbose_name=_('CSS Class'),
+                                 choices=CSS_CLASS_CHOICES)
+    start = models.DateTimeField(verbose_name=_('Start Date'))
+    end = models.DateTimeField(verbose_name=_('End Date'), null=True,
+                               blank=True)
+    
+    
+    def __unicode__(self):
+        return self.title
+      
+      
+class Schedule_detail(models.Model):
+    name = models.CharField(max_length=100)
+    pub_date = models.DateTimeField('date published')
+    Schedule_detail_taxt = models.CharField(max_length=1000)
+     
+    def __unicode__(self):
+        return self.name
+     
+class Task(models.Model):
+    check = models.BooleanField(default = False)
+    task_taxt = models.CharField(max_length=500)
+     
+    def __unicode__(self):
+        return self.check
+
+
+'''
+select convert(char(10),dateadd(d,number,'2007-01-01'),120) dt from master..spt_values where type = 'P' and number <= datediff(d,'2007-01-01','2008-12-31')
+'''

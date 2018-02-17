@@ -1,0 +1,75 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Volumes/driver2/python/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/schedule/com.python.pydev.analysis/v2_indexcache
+mmyydd.__init__|1511080906000000000|/Volumes/driver2/python/workspace/schedule/mmyydd/__init__.py
+schedule.__init__|1511080532000000000|/Volumes/driver2/python/workspace/schedule/schedule/__init__.py
+mmyydd.migrations.__init__|1511080906000000000|/Volumes/driver2/python/workspace/schedule/mmyydd/migrations/__init__.py
+schedule.settings|1516270321000000000|/Volumes/driver2/python/workspace/schedule/schedule/settings.py
+schedule.wsgi|1511080532000000000|/Volumes/driver2/python/workspace/schedule/schedule/wsgi.py
+mmyydd.views|1517505935000000000|/Volumes/driver2/python/workspace/schedule/mmyydd/views.py
+mmyydd.urls|1517490386000000000|/Volumes/driver2/python/workspace/schedule/mmyydd/urls.py
+manage|1511080532000000000|/Volumes/driver2/python/workspace/schedule/manage.py
+mmyydd.migrations.0001_initial|1516157367000000000|/Volumes/driver2/python/workspace/schedule/mmyydd/migrations/0001_initial.py
+mmyydd.models|1516270679000000000|/Volumes/driver2/python/workspace/schedule/mmyydd/models.py
+schedule.urls|1517491354000000000|/Volumes/driver2/python/workspace/schedule/schedule/urls.py
+mmyydd.apps|1511080906000000000|/Volumes/driver2/python/workspace/schedule/mmyydd/apps.py
+mmyydd.tests|1511080906000000000|/Volumes/driver2/python/workspace/schedule/mmyydd/tests.py
+mmyydd.admin|1516270675000000000|/Volumes/driver2/python/workspace/schedule/mmyydd/admin.py
+-- END DISKCACHE
+-- START DICTIONARY
+13
+1=schedule.settings
+13=MmyyddConfig
+2=schedule.wsgi
+6=mmyydd.views
+12=Migration
+8=mmyydd.urls
+3=mmyydd.migrations.0001_initial
+5=mmyydd.models
+11=schedule
+7=schedule.urls
+4=mmyydd.apps
+10=Schedule_detail
+9=Schedule
+-- END DICTIONARY
+-- START TREE 1
+20
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+aut|1|AUTH_PASSWORD_VALIDATORS!11@
+bas|1|BASE_DIR!11@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+mid|1|MIDDLEWARE!11@
+mig|1|Migration!25@
+mmy|1|MmyyddConfig!33@
+roo|1|ROOT_URLCONF!11@
+sch|3|Schedule!41@Schedule_detail!41@schedule!49@
+sec|1|SECRET_KEY!11@
+sta|1|STATIC_URL!11@
+tem|2|TEMPLATES!11@TEMPLATE_DIRS!11@
+tim|1|TIME_ZONE!11@
+url|2|urlpatterns!59@urlpatterns!67@
+use|3|USE_L10N!11@USE_TZ!11@USE_I18N!11@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+15
+__u|2|__unicode__!9&42@__unicode__!10&42@
+che|1|check!10&43@
+dat|1|date_field!11&51@
+dep|1|dependencies!12&27@
+end|1|end!9&43@
+ini|1|initial!12&27@
+mod|1|model!11&51@
+nam|2|name!13&35@name!10&43@
+ope|1|operations!12&27@
+pub|1|pub_date!10&43@
+sch|1|Schedule_detail_taxt!10&43@
+sta|1|start!9&43@
+tas|1|task_taxt!10&43@
+tem|1|template_name!11&51@
+tit|2|title!9&43@title!10&43@
+-- END TREE

@@ -1,0 +1,23 @@
+# -*- coding: utf-8 -*-
+from __future__ import unicode_literals
+
+from anaconda_navigator.utils.py3compat import request
+from django.shortcuts import render, get_object_or_404
+from mmyydd.models import *
+# Create your views here.
+
+#내가 원하는 자세한 로직을 만들기 위해 클래스형 뷰가 아닌 함수형 뷰를 사용함
+
+
+
+def index_calendar(request):
+    
+    
+    return render(request, )
+
+def detail_calendar(request, Task_id):
+    p = get_object_or_404(Task, pk = Task_id)
+    select_task =  
+    
+    return render(request, )
+

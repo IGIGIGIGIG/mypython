@@ -1,0 +1,17 @@
+INSTUPdaily_project.models
+/Volumes/driver2/python/workspace/daily_sound/daily_project/models.py
+INFOS:&&1|1|2|0&&3|3|2|1&&3|4|2|1&&3|5|2|1&&2|6|2|1&&1|7|2|0&&3|8|2|7&&2|6|2|7&&1|9|2|0&&3|10|2|9&&3|11|2|9&&3|7|2|9&&3|12|2|9&&3|13|2|9&&3|14|2|9&&2|6|2|9
+VideoCategory=7
+user_password=4
+like_count=14
+daily_project.models=2
+user_name=3
+video=9
+title=11
+__unicode__=6
+url=12
+video_category=8
+uploader=10
+nick_name=5
+watch_count=13
+user=1

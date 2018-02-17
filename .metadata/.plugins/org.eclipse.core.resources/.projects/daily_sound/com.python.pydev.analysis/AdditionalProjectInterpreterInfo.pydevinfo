@@ -1,0 +1,69 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Volumes/driver2/python/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/daily_sound/com.python.pydev.analysis/v2_indexcache
+daily_project.tests|1518430197000000000|/Volumes/driver2/python/workspace/daily_sound/daily_project/tests.py
+daily_project.__init__|1518430197000000000|/Volumes/driver2/python/workspace/daily_sound/daily_project/__init__.py
+daily_sound.settings|1518765617000000000|/Volumes/driver2/python/workspace/daily_sound/daily_sound/settings.py
+daily_project.models|1518765449000000000|/Volumes/driver2/python/workspace/daily_sound/daily_project/models.py
+daily_sound.__init__|1518429961000000000|/Volumes/driver2/python/workspace/daily_sound/daily_sound/__init__.py
+daily_project.admin|1518765315000000000|/Volumes/driver2/python/workspace/daily_sound/daily_project/admin.py
+manage|1518429961000000000|/Volumes/driver2/python/workspace/daily_sound/manage.py
+daily_sound.wsgi|1518429961000000000|/Volumes/driver2/python/workspace/daily_sound/daily_sound/wsgi.py
+daily_project.views|1518430197000000000|/Volumes/driver2/python/workspace/daily_sound/daily_project/views.py
+daily_project.migrations.__init__|1518430197000000000|/Volumes/driver2/python/workspace/daily_sound/daily_project/migrations/__init__.py
+daily_project.apps|1518430197000000000|/Volumes/driver2/python/workspace/daily_sound/daily_project/apps.py
+daily_project.migrations.0001_initial|1518765696000000000|/Volumes/driver2/python/workspace/daily_sound/daily_project/migrations/0001_initial.py
+daily_sound.urls|1518429961000000000|/Volumes/driver2/python/workspace/daily_sound/daily_sound/urls.py
+-- END DISKCACHE
+-- START DICTIONARY
+11
+8=VideoCategory
+1=daily_sound.settings
+11=DailyProjectConfig
+2=daily_sound.wsgi
+6=daily_project.models
+10=Migration
+3=daily_project.apps
+9=video
+7=user
+4=daily_project.migrations.0001_initial
+5=daily_sound.urls
+-- END DICTIONARY
+-- START TREE 1
+20
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+aut|1|AUTH_PASSWORD_VALIDATORS!11@
+bas|1|BASE_DIR!11@
+dai|1|DailyProjectConfig!25@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+mid|1|MIDDLEWARE!11@
+mig|1|Migration!33@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sta|1|STATIC_URL!11@
+tem|1|TEMPLATES!11@
+tim|1|TIME_ZONE!11@
+url|1|urlpatterns!43@
+use|4|USE_L10N!11@user!49@USE_TZ!11@USE_I18N!11@
+vid|2|VideoCategory!49@video!49@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+12
+__u|3|__unicode__!7&50@__unicode__!8&50@__unicode__!9&50@
+dep|1|dependencies!10&35@
+ini|1|initial!10&35@
+lik|1|like_count!9&51@
+nam|1|name!11&27@
+ope|1|operations!10&35@
+tit|1|title!9&51@
+upl|1|uploader!9&51@
+url|1|url!9&51@
+use|2|user_name!7&51@user_password!7&51@
+vid|2|video_category!8&51@VideoCategory!9&51@
+wat|1|watch_count!9&51@
+-- END TREE

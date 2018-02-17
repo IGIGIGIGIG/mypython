@@ -1,0 +1,4 @@
+(function(a_,b_
+/*``*/) {
+with (a_) with (b_) return suggestionsSummaryList.length == 1 ? 'single-suggestion' : ''
+})
